@@ -1,0 +1,1 @@
+Only include World Settings and Camera View in sequence recorder
