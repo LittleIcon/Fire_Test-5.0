@@ -13,14 +13,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MovieRenderPipeline",
-			"Enabled": true
-		},
-		{
-			"Name": "MoviePipelineMaskRenderPass",
-			"Enabled": true
-		},
-		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -28,6 +20,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
 		}
 	]
 }
